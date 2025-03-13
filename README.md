@@ -23,4 +23,4 @@ To run the simulation, first run the `spiral_search` node
 Then run `gps_nav` node
 
 A topic diagram explaining the inter node communication is attached below.
-![Spiral_Search_ROS_Topography drawio](https://github.com/user-attachments/assets/06ae8b3e-ea38-4b5c-b5bc-aae8678f32c1)
+![Spiral_Search_ROS_Topography](https://github.com/user-attachments/assets/b8979b3e-3a82-4366-b63e-8912cec2351b)
